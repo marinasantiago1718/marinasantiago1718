@@ -1,8 +1,7 @@
-<h1 align="center">Olá! 👋 Eu sou a Marina Santiago</h1>
-<h1 align="center">Hi! 👋 I'm Marina Santiago</h1>
+<h1 align="center">Marina Santiago</h1>
 
 <p align="center">
-💻 Computer Science Student • Java Developer • Back-end Enthusiast
+Computer Science Student • Java Developer • Back-end Enthusiast
 </p>
 
 <p align="center">
@@ -16,22 +15,23 @@
 
 ---
 
-# 👩‍💻 Sobre mim
+# ▸ Sobre mim | About Me
+
 ### 🇧🇷 Português
 
-🎓 Estudante de Ciência da Computação na Universidade de Fortaleza (UNIFOR).
+Estudante de Ciência da Computação na Universidade de Fortaleza (UNIFOR).
 
 Tenho interesse em Desenvolvimento Back-end, Engenharia de Software e desenvolvimento de aplicações Java. Busco constantemente aprimorar minhas habilidades por meio de projetos acadêmicos e pessoais, aplicando boas práticas de desenvolvimento, arquitetura de software e metodologias ágeis.
 
 ### 🇺🇸 English
 
-🎓 Computer Science student at the University of Fortaleza (UNIFOR).
+Computer Science student at the University of Fortaleza (UNIFOR).
 
 I'm passionate about Back-end Development, Software Engineering and Java applications. I'm constantly improving my technical skills through academic and personal projects while applying software architecture principles, development best practices and agile methodologies.
 
 ---
 
-# 🚀 Tecnologias | Technologies
+# ▸ Tecnologias | Technologies
 
 <p align="center">
 
@@ -41,9 +41,9 @@ I'm passionate about Back-end Development, Software Engineering and Java applica
 
 ---
 
-# 🚀 Projetos em Destaque | Featured Projects
+# ▸ Projetos em Destaque | Featured Projects
 
-## 🏥 Vitta
+## Vitta
 
 ### 🇧🇷 Português
 
@@ -59,9 +59,9 @@ Sistema web desenvolvido para gerenciamento da manutenção de equipamentos hosp
 - Alertas de manutenção preventiva
 - Dashboard para monitoramento
 
-🔗 **Repositório**
+**Repositório**
 
-https://github.com/gsaraiva2109/vitta
+→ https://github.com/gsaraiva2109/vitta
 
 ---
 
@@ -79,13 +79,13 @@ Web application designed to manage hospital equipment maintenance.
 - Preventive maintenance alerts
 - Monitoring dashboard
 
-🔗 **Repository**
+**Repository**
 
-https://github.com/gsaraiva2109/vitta
+→ https://github.com/gsaraiva2109/vitta
 
 ---
 
-## 🏋️ UniGym
+## UniGym
 
 ### 🇧🇷 Português
 
@@ -102,9 +102,9 @@ Aplicativo Android desenvolvido para gerenciamento da academia universitária.
 - Notificações
 - Assistente com IA
 
-🔗 **Repositório**
+**Repositório**
 
-https://github.com/ChangedRuby/UniGym
+→ https://github.com/ChangedRuby/UniGym
 
 ---
 
@@ -123,13 +123,13 @@ Android application developed for university gym management.
 - Notifications
 - AI Assistant
 
-🔗 **Repository**
+**Repository**
 
-https://github.com/ChangedRuby/UniGym
+→ https://github.com/ChangedRuby/UniGym
 
 ---
 
-## 🚗 Sistema de Locadora | Car Rental Microservice
+## Sistema de Locadora | Car Rental Microservice
 
 ### 🇧🇷 Português
 
@@ -139,13 +139,11 @@ Microsserviço desenvolvido com Spring Boot seguindo arquitetura em camadas (Con
 
 `Java` `Spring Boot` `MongoDB` `Docker`
 
-🔗 **Back-end**
+**Repositórios**
 
-https://github.com/marinasantiago1718/LocadoraDeCarros
+→ Back-end: https://github.com/marinasantiago1718/LocadoraDeCarros
 
-🔗 **Front-end**
-
-https://github.com/marinasantiago1718/LocadoraCarrosFront
+→ Front-end: https://github.com/marinasantiago1718/LocadoraCarrosFront
 
 ---
 
@@ -157,41 +155,8 @@ Spring Boot microservice built following a layered architecture (Controller, Ser
 
 `Java` `Spring Boot` `MongoDB` `Docker`
 
-🔗 **Back-end**
+**Repositories**
 
-https://github.com/marinasantiago1718/LocadoraDeCarros
+→ Back-end: https://github.com/marinasantiago1718/LocadoraDeCarros
 
-🔗 **Front-end**
-
-https://github.com/marinasantiago1718/LocadoraCarrosFront
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=marinasantiago1718&show_icons=true&theme=github_dark"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinasantiago1718&layout=compact&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=marinasantiago1718&theme=github-dark"/>
-
-</p>
-
----
-
-# 🤝 Contato | Contact
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/marina-santiago-5b4491360/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
+→ Front-end: https://github.com/marinasantiago1718/LocadoraCarrosFront
