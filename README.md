@@ -8,9 +8,6 @@ Computer Science Student • Java Developer • Back-end Enthusiast
 <a href="https://www.linkedin.com/in/marina-santiago-5b4491360/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:marinasantiago1718@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 </p>
 
 ---
@@ -160,3 +157,14 @@ Spring Boot microservice built following a layered architecture (Controller, Ser
 → Back-end: https://github.com/marinasantiago1718/LocadoraDeCarros
 
 → Front-end: https://github.com/marinasantiago1718/LocadoraCarrosFront
+---
+
+# ▸ Contato | Contact
+
+**LinkedIn**
+
+https://www.linkedin.com/in/marina-santiago-5b4491360/
+
+**Email**
+
+marinasantiago1718@gmail.com
