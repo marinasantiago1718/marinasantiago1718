@@ -30,11 +30,80 @@ I'm passionate about Back-end Development, Software Engineering and Java applica
 
 # ▸ Tecnologias | Technologies
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48"/><br>Java
+</td>
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,html,css,docker,git,github,mongodb,postgres,firebase"/>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=spring" width="48" height="48"/><br>Spring Boot
+</td>
 
-</p>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48"/><br>React
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48"/><br>TypeScript
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48"/><br>JavaScript
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48"/><br>HTML5
+</td>
+</tr>
+
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48"/><br>CSS3
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/><br>Docker
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48"/><br>Git
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br>GitHub
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48"/><br>PostgreSQL
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/><br>MongoDB
+</td>
+</tr>
+
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48"/><br>Firebase
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/><br>Tailwind
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/><br>Node.js
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/><br>MySQL
+</td>
+
+<td></td>
+<td></td>
+</tr>
+</table>
 
 ---
 
