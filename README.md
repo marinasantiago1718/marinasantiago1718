@@ -1,5 +1,5 @@
-<h1 align="center">Marina Santiago</h1>
-
+<h1 align="center">Oi! Eu sou a Marina!</h1>
+<h1 align="center">Hey! I'm Marina! </h1>
 <p align="center">
 Computer Science Student • Java Developer • Back-end Enthusiast
 </p>
